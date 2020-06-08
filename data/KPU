@@ -1,0 +1,46 @@
+[
+  {
+    "lat": "-6.193613",
+    "lng": "106.849354",
+    "vendor": "Bali Tower",
+    "url": "http://cctv.balitower.co.id:80/KPU-Provinsi-DKI-Jakarta-506634_1/embed.html?proto=hls",
+    "cctv_name": "KPU-Provinsi-DKI-Jakarta-506634_1 ",
+    "alamat": "Eks.kantor Sudin Pendidikan Menengah Jakarta Pusat II,JL.Raya Salemba No.15 Jakarta Pusat ",
+    "kecamatan": "Senen",
+    "kota": "JAKARTA PUSAT ",
+    "kelurahan": "Paseban"
+  },
+  {
+    "lat": "-6.193613",
+    "lng": "106.849354",
+    "vendor": "Bali Tower",
+    "url": "http://cctv.balitower.co.id:80/KPU-Provinsi-DKI-Jakarta-506634_2/embed.html?proto=hls",
+    "cctv_name": "KPU-Provinsi-DKI-Jakarta-506634_2 ",
+    "alamat": "Eks.kantor Sudin Pendidikan Menengah Jakarta Pusat II,JL.Raya Salemba No.15 Jakarta Pusat ",
+    "kecamatan": "Senen",
+    "kota": "JAKARTA PUSAT ",
+    "kelurahan": "Paseban"
+  },
+  {
+    "lat": "-6.193613",
+    "lng": "106.849354",
+    "vendor": "Bali Tower",
+    "url": "http://cctv.balitower.co.id:80/KPU-Provinsi-DKI-Jakarta-506634_3/embed.html?proto=hls",
+    "cctv_name": "KPU-Provinsi-DKI-Jakarta-506634_3 ",
+    "alamat": "Eks.kantor Sudin Pendidikan Menengah Jakarta Pusat II,JL.Raya Salemba No.15 Jakarta Pusat ",
+    "kecamatan": "Senen",
+    "kota": "JAKARTA PUSAT ",
+    "kelurahan": "Paseban"
+  },
+  {
+    "lat": "-6.193613",
+    "lng": "106.849354",
+    "vendor": "Bali Tower",
+    "url": "http://cctv.balitower.co.id:80/KPU-Provinsi-DKI-Jakarta-506634_4/embed.html?proto=hls",
+    "cctv_name": "KPU-Provinsi-DKI-Jakarta-506634_4 ",
+    "alamat": "Eks.kantor Sudin Pendidikan Menengah Jakarta Pusat II,JL.Raya Salemba No.15 Jakarta Pusat ",
+    "kecamatan": "Senen",
+    "kota": "JAKARTA PUSAT ",
+    "kelurahan": "Paseban"
+  }
+]
