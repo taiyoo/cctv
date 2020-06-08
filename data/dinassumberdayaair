@@ -1,0 +1,308 @@
+[
+  {
+    "lokasi": "Rumah Pompa Waduk Melati",
+    "lat": "-6.200814",
+    "lng": "106.817693",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.21&width=600"
+  },
+  {
+    "lokasi": "Rumah Pompa Waduk Setiabudi",
+    "lat": "-6.204010472",
+    "lng": "106.826409",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.22&width=600"
+  },
+  {
+    "lokasi": "Rumah Pompa Waduk Pluit 1 (PTZ)",
+    "lat": "-6.109076031",
+    "lng": "106.796649",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.23&width=600"
+  },
+  {
+    "lokasi": "Pompa Viaduk Pademangan",
+    "lat": "-6.131545985",
+    "lng": "106.831019",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.25&width=600"
+  },
+  {
+    "lokasi": "Pintu Air Istiqlal",
+    "lat": "-6.131545985",
+    "lng": "106.831019",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.26&width=600"
+  },
+  {
+    "lokasi": "Pintu Air Manggarai (PTZ)",
+    "lat": "-6.20790303",
+    "lng": "106.848439",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.28&width=600"
+  },
+  {
+    "lokasi": "Pintu Air Manggarai (FIX)",
+    "lat": "-6.20790303",
+    "lng": "106.848439",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.0.98&width=600"
+  },
+  {
+    "lokasi": "Jati Pinggir 2",
+    "lat": "-6.193454478",
+    "lng": "106.8089316",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.31&width=600"
+  },
+  {
+    "lokasi": "Pompa Underpass Dukuh Atas",
+    "lat": "-6.202765",
+    "lng": "106.822008",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.32&width=600"
+  },
+  {
+    "lokasi": "Pompa Underpass Senen (FIX)",
+    "lat": "-6.176024",
+    "lng": "106.844965",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.33&width=600"
+  },
+  {
+    "lokasi": "Pompa Underpass Angkasa (FIX)",
+    "lat": "-6.158085",
+    "lng": "106.840616",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.34&width=600"
+  },
+  {
+    "lokasi": "Pompa Air Cideng (PTZ)",
+    "lat": "-6.173528004",
+    "lng": "106.806805",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.36&width=600"
+  },
+  {
+    "lokasi": "Pompa Air Cideng (FIX)",
+    "lat": "-6.173528004",
+    "lng": "106.806805",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.35&width=600"
+  },
+  {
+    "lokasi": "Rumah Pompa Jembatan Merah (FIX)",
+    "lat": "-6.148889",
+    "lng": "106.834514",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.38&width=600"
+  },
+  {
+    "lokasi": "Pintu Air Pasar Ikan (FIX)",
+    "lat": "-6.12669",
+    "lng": "106.80966",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.114&width=600"
+  },
+  {
+    "lokasi": "Pintu Air Pasar Ikan (PTZ)",
+    "lat": "-6.12669",
+    "lng": "106.80966",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.113&width=600"
+  },
+  {
+    "lokasi": "Rumah Pompa Waduk Muara Angke (FIX)",
+    "lat": "-6.107467962",
+    "lng": "106.768009",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.117&width=600"
+  },
+  {
+    "lokasi": "Rumah Pompa Waduk Muara Angke (PTZ)",
+    "lat": "-6.107467962",
+    "lng": "106.768009",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.116&width=600"
+  },
+  {
+    "lokasi": "Rumah Pompa Waduk Pluit 2 (PTZ)",
+    "lat": "-6.109076031",
+    "lng": "106.796649",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.119&width=600"
+  },
+  {
+    "lokasi": "Pintu Air Pulogadung (PTZ)",
+    "lat": "-6.190609",
+    "lng": "106.904119",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.124&width=600"
+  },
+  {
+    "lokasi": "Pintu Air Pulogadung (FIX)",
+    "lat": "-6.190609",
+    "lng": "106.904119",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.125&width=600"
+  },
+  {
+    "lokasi": "Pintu Air Karet",
+    "lat": "-6.198087987",
+    "lng": "106.810091",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.10.56&width=600"
+  },
+  {
+    "lokasi": "PA Marina (PTZ)",
+    "lat": "-6.126931",
+    "lng": "106.829663",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.110&width=600"
+  },
+  {
+    "lokasi": "PA Marina (FIX)",
+    "lat": "-6.126931",
+    "lng": "106.829663",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.111&width=600"
+  },
+  {
+    "lokasi": "Rumah Pompa Waduk Rawabadak (PTZ)",
+    "lat": "-6.121312",
+    "lng": "106.896758",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.134&width=600"
+  },
+  {
+    "lokasi": "Pompa Kelapa Gading Donbosco (PTZ)",
+    "lat": "-6.166467",
+    "lng": "106.91324",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.131&width=600"
+  },
+  {
+    "lokasi": "PS Depok, Kali Ciliwung",
+    "lat": "-6.400514",
+    "lng": "106832143",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=202.62.24.41&width=600"
+  },
+  {
+    "lokasi": "Sawangan",
+    "lat": "-6.397111",
+    "lng": "106.771825",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=202.62.24.42&width=600"
+  },
+  {
+    "lokasi": "Kanal Banjir Timur",
+    "lat": "-6.228132",
+    "lng": "106.928581",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=202.62.24.43&width=600"
+  },
+  {
+    "lokasi": "PS Kali Sunter Hulu",
+    "lat": "-6.317972",
+    "lng": "106.92076",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=202.62.24.44&width=600"
+  },
+  {
+    "lokasi": "Bendung Katulampa",
+    "lat": "-6.633183",
+    "lng": "106.836828",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=202.62.24.45&width=600"
+  },
+  {
+    "lokasi": "Rumah Pompa Tanjungan",
+    "lat": "-6.106925",
+    "lng": "106.725604",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=202.62.24.46&width=600"
+  },
+  {
+    "lokasi": "PS Kali Krukut Hulu",
+    "lat": "-6.34391",
+    "lng": "106.79906",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=202.62.24.47&width=600"
+  },
+  {
+    "lokasi": "PS Kali Angke Hulu",
+    "lat": "-6.218385",
+    "lng": "106.694341",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=202.62.24.60&width=600"
+  },
+  {
+    "lokasi": "PS Kali Cipinang Hulu",
+    "lat": "-6.374131",
+    "lng": "106.883811",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=202.62.24.49&width=600"
+  },
+  {
+    "lokasi": "Jati Pinggir 1",
+    "lat": "-6.198177481",
+    "lng": "106.8094677",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.63&width=600"
+  },
+  {
+    "lokasi": "Pompa Underpass Pramuka (FIX)",
+    "lat": "-6.196222",
+    "lng": "106.858051",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.55&width=600"
+  },
+  {
+    "lokasi": "Pintu Air Manggarai (FIX)",
+    "lat": "-6.20790303",
+    "lng": "106.848439",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.27&width=600"
+  },
+  {
+    "lokasi": "Rumah Pompa Telukgong (FIX)",
+    "lat": "-6.133497963",
+    "lng": "106.777649",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.42&width=600"
+  },
+  {
+    "lokasi": "Rumah Pompa Sumurbatu",
+    "lat": "-6.161301",
+    "lng": "106.873568",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.57&width=600"
+  },
+  {
+    "lokasi": "Rumah Pompa Cempaka Baru",
+    "lat": "-6157593",
+    "lng": "106.866816",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.58&width=600"
+  },
+  {
+    "lokasi": "Rumah Pompa Kodamar (PTZ)",
+    "lat": "-6.155079",
+    "lng": "106.886893",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.127&width=600"
+  },
+  {
+    "lokasi": "Rumah Pompa Dwiwarna",
+    "lat": "-6.149018",
+    "lng": "106.833603",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.53&width=600"
+  },
+  {
+    "lokasi": "Rumah Pompa Jayakarta",
+    "lat": "-6.145754987",
+    "lng": "106.833702",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.47&width=600"
+  },
+  {
+    "lokasi": "Pump Gate Poglar (FIX)",
+    "lat": "-6.149990028",
+    "lng": "106.771375",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.44&width=600"
+  },
+  {
+    "lokasi": "Rumah Pompa Mangga Dua Abdad",
+    "lat": "-6.141762",
+    "lng": "106.832895",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.49&width=600"
+  },
+  {
+    "lokasi": "Rumah Pompa Rajawali Selatan",
+    "lat": "-6.147147042",
+    "lng": "106.8396136",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.72&width=600"
+  },
+  {
+    "lokasi": "Rumah Pompa Industri",
+    "lat": "-6.145073",
+    "lng": "106.834076",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.51&width=600"
+  },
+  {
+    "lokasi": "Rumah Pompa Ancol",
+    "lat": "-6.126166",
+    "lng": "106.852418",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.24&width=600"
+  },
+  {
+    "lokasi": "Rumah Pompa Gedung Jaya",
+    "lat": "-6.18643",
+    "lng": "106.822673",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=172.168.2.61&width=600"
+  },
+  {
+    "lokasi": "PS Kali Pesanggrahan Hulu",
+    "lat": "-6397111",
+    "lng": "106771825",
+    "link": "http://202.51.111.125:81/viewer/index.php?ip=202.62.24.42&width=600"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "cctv_id": "1",
+    "site_id": "DPU_10",
+    "site_name": "Pasar Baru-1",
+    "target_view": "Sungai",
+    "url": "rtmp://198.50.172.103:5119/live/dpu_10",
+    "lat": "-6.16573",
+    "lng": "106.83490"
+  },
+  {
+    "cctv_id": "2",
+    "site_id": "DPU_11",
+    "site_name": "Pasar Baru-2",
+    "target_view": "Sungai",
+    "url": "rtmp://198.50.172.103:5119/live/dpu_11",
+    "lat": "-6.17199",
+    "lng": "106.83153"
+  },
+  {
+    "cctv_id": "3",
+    "site_id": "DPU_12",
+    "site_name": "Gambir-1",
+    "target_view": "Sungai",
+    "url": "rtmp://198.50.172.103:5119/live/dpu_12",
+    "lat": "-6.17585",
+    "lng": "106.83250"
+  },
+  {
+    "cctv_id": "4",
+    "site_id": "DPU_13",
+    "site_name": "Kwitang-1",
+    "target_view": "Sungai",
+    "url": "rtmp://198.50.172.103:5119/live/dpu_13",
+    "lat": "-6.18175",
+    "lng": "106.83699"
+  },
+  {
+    "cctv_id": "5",
+    "site_id": "DPU_15",
+    "site_name": "Kenari-1",
+    "target_view": "Sungai",
+    "url": "rtmp://198.50.172.103:5119/live/dpu_15",
+    "lat": "-6.19098",
+    "lng": "106.84348"
+  }
+]

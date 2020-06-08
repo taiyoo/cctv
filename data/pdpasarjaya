@@ -1,0 +1,74 @@
+[
+  {
+    "no": "1",
+    "nama_pasar": "Cikini Amfiun 1",
+    "ip_address": "http://cikinigoldcenter1.ddns.eagleeyes.tw:8001",
+    "user": "admin",
+    "password": "admin",
+    "lat": "-6.197923",
+    "lng": "106.842064"
+  },
+  {
+    "no": "2",
+    "nama_pasar": "Cikini Amfiun 2",
+    "ip_address": "http://cikinigoldcenter1.ddns.eagleeyes.tw:8002",
+    "user": "admin",
+    "password": "admin",
+    "lat": "-6.197823",
+    "lng": "106.842163"
+  },
+  {
+    "no": "3",
+    "nama_pasar": "Cikini Amfiun 3",
+    "ip_address": "http://cikinigoldcenter1.ddns.eagleeyes.tw:8003",
+    "user": "admin",
+    "password": "admin",
+    "lat": "-6.197723",
+    "lng": "106.842262"
+  },
+  {
+    "no": "4",
+    "nama_pasar": "Mayestik 1",
+    "ip_address": "http://202.158.5.130:82",
+    "user": "admin",
+    "password": "12345",
+    "lat": "-6.240890",
+    "lng": "106.790993"
+  },
+  {
+    "no": "5",
+    "nama_pasar": "Mayestik 2",
+    "ip_address": "http://202.158.5.130:83",
+    "user": "admin",
+    "password": "12345",
+    "lat": "-6.240790",
+    "lng": "106.790894"
+  },
+  {
+    "no": "6",
+    "nama_pasar": "Mayestik 3",
+    "ip_address": "http://202.158.5.130:84",
+    "user": "admin",
+    "password": "12345",
+    "lat": "-6.240690",
+    "lng": "106.790794"
+  },
+  {
+    "no": "7",
+    "nama_pasar": "Mayestik 4",
+    "ip_address": "http://202.158.5.130:85",
+    "user": "admin",
+    "password": "12345",
+    "lat": "-6.240590",
+    "lng": "106.790695"
+  },
+  {
+    "no": "8",
+    "nama_pasar": "Blok M Square",
+    "ip_address": "http://111.67.84.142/recorder/bms1.mp4",
+    "user": "admin",
+    "password": "111222",
+    "lat": "-6.244623",
+    "lng": "106.800644"
+  }
+]
